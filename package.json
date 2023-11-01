@@ -15,6 +15,7 @@
     "NodeJS",
     "Express.js"
   ],
+  /*
   "author": "Hirwa Jean Eric",
   "license": "MIT",
   "dependencies": {
@@ -39,4 +40,4 @@
   "devDependencies": {
     "nodemon": "^2.0.21"
   }
-}
+}*/
